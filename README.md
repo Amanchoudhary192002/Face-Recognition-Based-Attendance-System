@@ -5,7 +5,7 @@ Built a facial recognition system for automating attendance using OpenCV.
 Designed a user-friendly front-end and connected with a backend database
 
 If you want to upgrade this first to use this library given
-
+I serve one the overall project click this folder C:\Users\amanc\OneDrive\Desktop\face-recognition-based-attendance-system-master\Document\document Image
 pip install virtualenv 
 #virtualenv env 
 #Set-ExecutionPolicy unrestriced
