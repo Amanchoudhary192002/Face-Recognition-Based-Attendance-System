@@ -26,3 +26,4 @@ pip install sklearn.neighbors
 pip install -U scikit-learn
 
 
+![alt text](Attendance_page.jpg)
