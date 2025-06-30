@@ -1,7 +1,10 @@
 # face-recognition-attendance-system  
+Face Recognition-Based Attendance System: (Final Year Project Oct -2023)
+Tools: Python, OpenCV, HTML, CSS, PHP, MySQL 
+Built a facial recognition system for automating attendance using OpenCV. 
+Designed a user-friendly front-end and connected with a backend database
 
-admin Login http://localhost/face-recognition-based-attendance-system-master/admin/login_.php
-user login http://localhost/face-recognition-based-attendance-system-master/admin/user_interface/login_.php
+If you want to upgrade this first to use this library given
 
 pip install virtualenv 
 #virtualenv env 
